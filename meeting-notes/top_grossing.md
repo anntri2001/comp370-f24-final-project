@@ -3,6 +3,12 @@ https://www.boxofficemojo.com/month/june/2024/?grossesOption=totalGrosses
 | title | gross | release-date | genre(s) |
 | --- | --- | --- | --- |
 | Inside Out 2 | $652,980,194 | June 14, 2024| Adventure Animation Comedy Drama Family Fantasy |
+| Something to Stand for with Mike Rowe | $1,358,690 | June 27, 2024| History |
+| Daddio | $987,845 | June 28, 2024| Drama |
+| Janet Planet | $793,638 | June 21, 2024| Drama |
+| Tuesday | $706,683 | June 7, 2024| Drama Fantasy |
+| Ghostlight | $697,229 | June 14, 2024| Comedy Drama |
+| Treasure | $541,578 | June 14, 2024| Comedy Drama |
 
 
 
@@ -25,7 +31,7 @@ https://www.boxofficemojo.com/month/june/2024/?grossesOption=totalGrosses
 - Janet Planet
 - Tuesday
 - Ghostlight
-- Teasure
+- Treasure
 
 ### Top Grossing - Calendar grosses
 https://www.boxofficemojo.com/month/june/2024/
