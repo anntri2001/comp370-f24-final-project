@@ -1,5 +1,11 @@
 ### Top Grossing - In-month releases
 https://www.boxofficemojo.com/month/june/2024/?grossesOption=totalGrosses
+| title | gross | release-date | genre(s) |
+| --- | --- | --- | --- |
+| Inside Out 2 | $652,980,194 | June 14, 2024| Adventure Animation Comedy Drama Family Fantasy |
+
+
+
 - Inside Out 2
 - Bad Boys: Ride or Die
 - A Quite Place: Day One
