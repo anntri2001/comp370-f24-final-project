@@ -23,8 +23,6 @@ https://www.boxofficemojo.com/month/june/2024/?grossesOption=totalGrosses
 | Ghostlight | $697,229 | June 14, 2024| Comedy Drama |
 | Treasure | $541,578 | June 14, 2024| Comedy Drama |
 
-
-
 - Inside Out 2
 - Bad Boys: Ride or Die
 - A Quite Place: Day One
