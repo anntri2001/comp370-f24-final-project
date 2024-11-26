@@ -6,6 +6,7 @@ last week's todos \[updated\]
    - https://yts.mx/
 - TODO doing a small range for finding articles
 - TODO zip the typology
+
 typology:
 - movie reviews
    - how good was the movie (critic vs fan)
