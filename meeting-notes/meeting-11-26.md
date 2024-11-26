@@ -11,7 +11,9 @@ typology:
 - movie reviews
    - how good was the movie (critic vs fan)
    - film essay
+   - movie explained / plot
 - how to watch (if it will be streamed, or in theaters)
 - trailers / clip
 - specific actors / cast
-- behind the scenes
+- behind the scenes / soundtrack / production / costume
+- anticipation
