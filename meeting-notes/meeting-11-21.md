@@ -14,4 +14,8 @@ updates:
     - published_after: TODO above
     - published_before: TODO above
 
+<<<<<<< HEAD
     - TODO zip the typology
+=======
+    - TODO zip the typology
+>>>>>>> ann/data-collection
